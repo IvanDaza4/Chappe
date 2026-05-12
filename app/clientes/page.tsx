@@ -185,6 +185,7 @@ function AnimatedCounter({ value, suffix = "" }: { value: number; suffix?: strin
 export default function ClientesPage() {
     return (
         <>
+            
             <Header />
             <TechBackground />
             <main className="pt-20">
